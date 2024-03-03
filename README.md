@@ -17,7 +17,8 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![Screen Shot](![image](https://github.com/prtm-bg/GDSCFlutterFestival_ChatBot/assets/68804912/acdbe7eb-4639-419f-a9d4-862c8076c71c)
+)
 
 ## Usage 
 
