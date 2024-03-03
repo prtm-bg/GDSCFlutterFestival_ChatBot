@@ -15,13 +15,6 @@
 
 ![Contributors](https://img.shields.io/github/contributors/prtm-bg/GDSCFlutterFestival_ChatBot?color=dark-green) 
 
-## About The Project
-![Screenshot 2024-03-03 182711](https://github.com/prtm-bg/GDSCFlutterFestival_ChatBot/assets/68804912/019c6999-f202-4d82-9d07-c1f40f88a766)
-<br>
-![Screenshot 2024-03-03 182912](https://github.com/prtm-bg/GDSCFlutterFestival_ChatBot/assets/68804912/b8b7450e-8208-4acf-bf02-91d8e96a9639)
-
-
-
 
 ## Usage 
 
@@ -29,4 +22,7 @@ https://github.com/prtm-bg/GDSCFlutterFestival_ChatBot/releases
 
 If you intend to build the App then, Before building the App, Modify the .env file and put your Gemini API token.
 
-
+## App ScreenShots
+![Screenshot 2024-03-03 182711](https://github.com/prtm-bg/GDSCFlutterFestival_ChatBot/assets/68804912/019c6999-f202-4d82-9d07-c1f40f88a766)
+<br>
+![Screenshot 2024-03-03 182912](https://github.com/prtm-bg/GDSCFlutterFestival_ChatBot/assets/68804912/b8b7450e-8208-4acf-bf02-91d8e96a9639)
