@@ -19,7 +19,7 @@
 
 ![Screen Shot](![image](https://github.com/prtm-bg/GDSCFlutterFestival_ChatBot/assets/68804912/b3acfe23-ea0f-4eec-91db-be42f4a3f1c1)
 )
-![Screen Shot2](![image](https://github.com/prtm-bg/GDSCFlutterFestival_ChatBot/assets/68804912/ce2a71e9-18a4-4014-92dc-bf6857a51c75)
+![Screen Shot2](![image](https://github.com/prtm-bg/GDSCFlutterFestival_ChatBot/assets/68804912/bb0c7158-494a-4cdb-83b6-4fe215d8af55)
 )
 
 ## Usage 
