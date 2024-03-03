@@ -17,7 +17,7 @@
 
 ## About The Project
 
-![Alt text](https://www.dropbox.com/scl/fi/aoc36hzlr2d0avx6uerpa/Screenshot-2024-03-03-182711.png?rlkey=zf33u3pn6lx7ra0alc85t3cdt&dl=1)
+![Alt text](https://github.com/prtm-bg/GDSCFlutterFestival_ChatBot/blob/master/assets/Screenshot%202024-03-03%20182711.png?raw=true)
 ![Alt text](image link)
 
 ## Usage 
