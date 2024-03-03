@@ -17,9 +17,9 @@
 
 ## About The Project
 
-![Screen Shot](![image](https://github.com/prtm-bg/GDSCFlutterFestival_ChatBot/blob/master/assets/Screenshot%202024-03-03%20182711.png?raw=true)
+![Screen Shot](![image](https://github.com/prtm-bg/GDSCFlutterFestival_ChatBot/blob/master/assets/Screenshot%202024-03-03%20182711.png)
 )
-![Screen Shot2](![image](https://github.com/prtm-bg/GDSCFlutterFestival_ChatBot/blob/master/assets/Screenshot%202024-03-03%20182912.png?raw=true)
+![Screen Shot2](![image](https://github.com/prtm-bg/GDSCFlutterFestival_ChatBot/blob/master/assets/Screenshot%202024-03-03%20182912.png)
 )
 
 ## Usage 
