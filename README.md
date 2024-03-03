@@ -13,7 +13,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/prtm-bg/GDSCFlutterFestival_ChatBot/total) ![Contributors](https://img.shields.io/github/contributors/prtm-bg/GDSCFlutterFestival_ChatBot?color=dark-green) ![Issues](https://img.shields.io/github/issues/prtm-bg/GDSCFlutterFestival_ChatBot) ![License](https://img.shields.io/github/license/prtm-bg/GDSCFlutterFestival_ChatBot) 
+![Downloads](https://img.shields.io/github/downloads/prtm-bg/GDSCFlutterFestival_ChatBot/total) ![Contributors](https://img.shields.io/github/contributors/prtm-bg/GDSCFlutterFestival_ChatBot?color=dark-green) 
 
 ## About The Project
 
