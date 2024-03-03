@@ -13,13 +13,13 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/releases/prtm-bg/GDSCFlutterFestival_ChatBot) ![Contributors](https://img.shields.io/github/contributors/prtm-bg/GDSCFlutterFestival_ChatBot?color=dark-green) 
+![Contributors](https://img.shields.io/github/contributors/prtm-bg/GDSCFlutterFestival_ChatBot?color=dark-green) 
 
 ## About The Project
 
-![Screen Shot](![image](https://github.com/prtm-bg/GDSCFlutterFestival_ChatBot/assets/68804912/b3acfe23-ea0f-4eec-91db-be42f4a3f1c1)
+![Screen Shot](![image](https://github.com/prtm-bg/GDSCFlutterFestival_ChatBot/blob/master/assets/Screenshot%202024-03-03%20182711.png?raw=true)
 )
-![Screen Shot2](![image](https://github.com/prtm-bg/GDSCFlutterFestival_ChatBot/assets/68804912/bb0c7158-494a-4cdb-83b6-4fe215d8af55)
+![Screen Shot2](![image](https://github.com/prtm-bg/GDSCFlutterFestival_ChatBot/blob/master/assets/Screenshot%202024-03-03%20182912.png?raw=true)
 )
 
 ## Usage 
